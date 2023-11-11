@@ -12,7 +12,7 @@ https://docs.google.com/document/d/1qR3HlsVqzqwtxr2rtD14r3Kf6YEuSkPnYzcGe01Qfe4/
 
 EASYWAY
 
-Beatriz Gonzaga Correia da Silva
-Debóra Buzon da Silva
-Laura Neri Thomaz da Silva
+Beatriz Gonzaga Correia da Silva,
+Debóra Buzon da Silva,
+Laura Neri Thomaz da Silva,
 Pietra Gullo Salgado Chaves
